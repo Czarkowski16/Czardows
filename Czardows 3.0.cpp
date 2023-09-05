@@ -271,6 +271,8 @@ void menu()
     system("cls");
     cout<<"Nigdzie nie widziałem tego pedała!"<<endl;
    Sleep(3000);
+Sleep(3000);
+cout"<<Wypierdalaj"<<endl;
     startup();
     break;
 
